@@ -1,2 +1,1 @@
-# DIT-MobileAppDevelop
-DIT_2023_MobileAppDevelop
+# 2023학년도 2학년 모바일앱개발 과목
